@@ -1,0 +1,16 @@
+# Expo-related
+.expo/
+.expo-shared/
+
+# Backend-related
+*.ipynb
+__pycache__/
+*.pkl
+*.csv
+venv/
+.env
+
+# General
+*.log
+.DS_Store
+Thumbs.db

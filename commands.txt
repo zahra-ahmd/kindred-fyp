@@ -1,0 +1,3 @@
+$ "/d/cloudflared/cloudflared.exe" tunnel --url http://localhost:8899
+
+uvicorn app.main:app --host 0.0.0.0 --port 8899
